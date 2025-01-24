@@ -1,46 +1,21 @@
-## Hi there 👋
-
+# 💫 About Me:
 I am Misha Lavrenuyk, a designer-programmer with more than 2 years of experience and a content creator on the web. Experience in such programming languages ​​as html css and js. I spend most of my time coding new and special projects to improve my experience.
 
 
-:mailbox: Reach me out!
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/shere/19iKmFzm/?mibextid=wwXlfr) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/www.pinterest.com/mishalavrenaik) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/https://www.reddit.com/u/Colefainxx/s/vkCC5kLPul) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@https://www.tiktiok.com/@dllldgreal?_t=ZM-8tL8Of1ktuP) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/https://codepen.io/MrRep) 
 
-[![Twitter Badge](https://img.shields.io/badge/-@MaksymRudnyi-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/MaksymRudnyi)](https://twitter.com/MaksymRudnyi) 
-[![Mail Badge](https://img.shields.io/badge/-Maksym_Rudnyi-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://youtube.com/@MaksymRudnyi?si=rYeYSkEaREqugOCt) 
-[![Mail Badge](https://img.shields.io/badge/-Travels_And_Code-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://youtube.com/@TravelsCode?si=YETDFWm1lvKodZW9) 
-[![Linkedin Badge](https://img.shields.io/badge/-Maksym_Rudnyi-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maksym-rudnyi/) 
-[![Mail Badge](https://img.shields.io/badge/-@Maksym_Rudnyi-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/maksym_rudnyi/) 
-[![Mail Badge](https://img.shields.io/badge/-Maksym_Rudnyi-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:rudik.programer@gmail.com)
+# 💻 Tech Stack:
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=MrRep&theme=nord&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=MrRep&theme=nord&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MrRep&theme=nord&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-#### Top Technologies
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=MrRep&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#)
+---
+[![](https://visitcount.itsvg.in/api?id=MrRep&icon=7&color=4)](https://visitcount.itsvg.in)
 
-### Tutorials
-
-[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][reactplaylist]
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-[<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />][graphqllist]
-
-<br/>
-
-### Bizness
-- :paperclip: [My Resume/CV]()
-- :email: misha.lavrenaik@gmail.com
-
-<br/>
-
-### My stats ⭐
-
-<div align="center">
-<img alt="Mikhailo GitHub stats" src="https://github-readme-stats.vercel.app/api?username=MrRep&show_icons=true&theme=transparent"/>
-<img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrRep&layout=compact&&langs_count=8"/>
-</div>
-
-### Profile views counter 👁️‍🗨️
-[![Maksym Rudnyi profile views](https://u8views.com/api/v1/github/profiles/7869344/views/day-week-month-total-count.svg)](https://u8views.com/github/MrRep)
-
-
-[reactplaylist]:https://youtube.com/playlist?list=PLlYbsPJVZjBygXalKUVKkvFyHQ1NifIiW&si=pj2Rfx3ztZjb_c1P
-[graphqllist]: https://youtube.com/playlist?list=PLlYbsPJVZjByzzOLWl2n15n0uQ7m8loEh&si=0NXO3LQENlDOOqdK
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
