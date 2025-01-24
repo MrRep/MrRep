@@ -1,7 +1,7 @@
 ## Hi there 👋
 
+I am Misha Lavrenuyk, a designer-programmer with more than 2 years of experience and a content creator on the web. Experience in such programming languages ​​as html css and js. I spend most of my time coding new and special projects to improve my experience.
 
-I'm Maksym Rudnyi a Senior Software Engineer with more than 10 years of experience and Content Creator on [YouTube UA](https://www.youtube.com/@MaksymRudnyi), [YouTube EN](https://youtube.com/@TravelsCode). Experienced both in Front-end and Back-end technologies. I Spend most of my time coding outstanding projects or recording tutorials.
 
 :mailbox: Reach me out!
 
@@ -25,20 +25,20 @@ I'm Maksym Rudnyi a Senior Software Engineer with more than 10 years of experien
 <br/>
 
 ### Bizness
-- :paperclip: [My Resume/CV](https://drive.google.com/file/d/12z5Ig5x4RNoIUpQ-M7AMl1NL8FTIvlaU/view?usp=sharing)
-- :email: maksym.rudnyi@gmail.com
+- :paperclip: [My Resume/CV]()
+- :email: misha.lavrenaik@gmail.com
 
 <br/>
 
 ### My stats ⭐
 
 <div align="center">
-<img alt="Maksym's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=MaksymRudnyi&show_icons=true&theme=transparent"/>
-<img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaksymRudnyi&layout=compact&&langs_count=8"/>
+<img alt="Mikhailo GitHub stats" src="https://github-readme-stats.vercel.app/api?username=MrRep&show_icons=true&theme=transparent"/>
+<img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrRep&layout=compact&&langs_count=8"/>
 </div>
 
 ### Profile views counter 👁️‍🗨️
-[![Maksym Rudnyi profile views](https://u8views.com/api/v1/github/profiles/7869344/views/day-week-month-total-count.svg)](https://u8views.com/github/MaksymRudnyi)
+[![Maksym Rudnyi profile views](https://u8views.com/api/v1/github/profiles/7869344/views/day-week-month-total-count.svg)](https://u8views.com/github/MrRep)
 
 
 [reactplaylist]:https://youtube.com/playlist?list=PLlYbsPJVZjBygXalKUVKkvFyHQ1NifIiW&si=pj2Rfx3ztZjb_c1P
