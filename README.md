@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am Misha Lavrenuyk, a designer-programmer with more than 2 years of experience and a content creator on the web. I have experience in programming languages such as HTML, CSS, and JavaScript. I spend most of my time coding new and unique projects to improve my skills.
+I am Misha Lavrenuyk, a designer-programmer with more than 2 years of experience and a content creator on the web. I have experience with programming languages ​​such as JavaScript, as well as markup and styling languages ​​such as HTML and CSS. I spend most of my time coding new and unique projects to improve my skills.
 
 
 ## 🌐 Socials:
