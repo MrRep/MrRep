@@ -11,12 +11,10 @@
       transform: translateX(100px);
       transition: all 0.8s ease-in-out;
     }
-
     .animated.show {
       opacity: 1;
       transform: translateX(0);
     }
-
     /* Додаткові стилі */
     body {
       font-family: Arial, sans-serif;
