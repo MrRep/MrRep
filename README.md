@@ -20,7 +20,7 @@ I am Misha Lavrenuyk, a designer-programmer with more than 2 years of experience
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
   <!-- Лівий віджет -->
-  <img src="https://github-readme-stats.vercel.app/api?username=MrRep&theme=midnight-purple&show_icons=true" alt="MrRep GitHub stats" style="width: 60%;">
+  <img src="https://github-readme-stats.vercel.app/api?username=MrRep&theme=midnight-purple&show_icons=true" alt="MrRep GitHub stats" style="width: 52%;">
 
   <!-- Правий віджет -->
   <a href="https://github.com/anuraghazra/github-readme-stats">
