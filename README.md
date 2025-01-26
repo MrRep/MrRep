@@ -19,5 +19,5 @@ I am Misha Lavrenuyk, a designer-programmer with more than 2 years of experience
 <img src="https://c4.wallpaperflare.com/wallpaper/976/74/465/multiple-display-mountains-snow-nature-wallpaper-preview.jpg" alt="Banner" style="width: 100%; height: auto; border-radius: 10px;">
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrRep&theme=midnight-purple&show_icons=true)
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MrRep)](https://github.com/MrRep/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/MrRep/github-readme-stats)
 
