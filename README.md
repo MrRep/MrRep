@@ -24,7 +24,7 @@ I am Misha Lavrenuyk, a designer-programmer with more than 2 years of experience
 
   <!-- Правий віджет -->
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut&theme=midnight-purple" alt="Top Langs" style="width: 48%;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut&theme=midnight-purple" alt="Top Langs" style="width: 38%;">
   </a>
 </div>
 
