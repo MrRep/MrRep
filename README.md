@@ -18,20 +18,3 @@ I am Misha Lavrenuyk, a designer-programmer with more than 2 years of experience
 
 <img src="https://c4.wallpaperflare.com/wallpaper/976/74/465/multiple-display-mountains-snow-nature-wallpaper-preview.jpg" alt="Banner" style="width: 100%; height: auto; border-radius: 10px;">
 
-## 📊 GitHub Stats:
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=MrRep&theme=nord&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrRep&theme=nord&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Most Used Languages"/>
-    </td>
-  </tr>
-</table>
-
-## 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=MrRep&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=MrRep&icon=7&color=4)](https://visitcount.itsvg.in)
