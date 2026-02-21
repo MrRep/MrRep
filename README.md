@@ -32,6 +32,4 @@ I continuously improve my skills through hands-on projects and real-world practi
 <img src="https://c4.wallpaperflare.com/wallpaper/976/74/465/multiple-display-mountains-snow-nature-wallpaper-preview.jpg" alt="Banner" style="width: 100%; height: auto; border-radius: 10px;">
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MrRep&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrRep&layout=compact&theme=dark)
 
