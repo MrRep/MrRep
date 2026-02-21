@@ -1,11 +1,18 @@
 ## 👋 About Me
 
-I'm Michael Lavrenyuk — a Frontend Developer focused on building clean, responsive, and user-friendly websites.
+I'm Michael Lavrenyuk — a Frontend Developer with a strong interest in modern web technologies and interactive experiences.
 
-I work mainly with **HTML, CSS, and JavaScript**, creating layouts, landing pages, and interactive UI elements.  
-I enjoy turning designs into real products and continuously improving my skills through real projects.
+I focus on building **clean, responsive, and user-friendly websites** using **HTML, CSS, and JavaScript**.  
+I also work with **Node.js** for basic backend logic, tooling, and project workflows.
 
-💡 Interested in: real-world projects, freelance work, and frontend challenges.
+Beyond web development, I have solid experience in **3D graphics and game-related content creation**.  
+I actively work with **Blender**, where I create 3D models, textures, and perform UV mapping and texture baking.  
+Currently, I’m learning **Unreal Engine**, combining 3D assets with real-time environments and interactive scenes.
+
+I enjoy turning ideas and designs into real, working products — whether it’s a website, UI component, or a 3D asset.  
+I continuously improve my skills through hands-on projects and real-world practice.
+
+💡 Interested in: real-world projects, freelance work, frontend development, and interactive 3D experiences.
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/shere/19iKmFzm/?mibextid=wwXlfr) 
@@ -24,15 +31,7 @@ I enjoy turning designs into real products and continuously improving my skills 
 
 <img src="https://c4.wallpaperflare.com/wallpaper/976/74/465/multiple-display-mountains-snow-nature-wallpaper-preview.jpg" alt="Banner" style="width: 100%; height: auto; border-radius: 10px;">
 
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  <!-- Лівий віджет -->
-  <img src="https://github-readme-stats.vercel.app/api?username=MrRep&theme=midnight-purple&show_icons=true" alt="MrRep GitHub stats" style="width: 52%;">
 
-  <!-- Правий віджет -->
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut&theme=midnight-purple" alt="Top Langs" style="width: 36%;">
-  </a>
-</div>
-
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MrRep&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrRep&layout=compact&theme=dark)
 
