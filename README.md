@@ -12,8 +12,6 @@ Currently, I’m learning **Unreal Engine**, combining 3D assets with real-time 
 I enjoy turning ideas and designs into real, working products — whether it’s a website, UI component, or a 3D asset.  
 I continuously improve my skills through hands-on projects and real-world practice.
 
-💡 Interested in: real-world projects, freelance work, frontend development, and interactive 3D experiences.
-
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/shere/19iKmFzm/?mibextid=wwXlfr) 
 [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://www.pinterest.com/mishalavrenaik) 
@@ -32,6 +30,3 @@ I continuously improve my skills through hands-on projects and real-world practi
 <img src="https://c4.wallpaperflare.com/wallpaper/291/819/697/illustration-city-anime-painting-wallpaper-preview.jpg"
      alt="Banner"
      style="width: 100%; height: auto; border-radius: 10px;">
-
-
-
